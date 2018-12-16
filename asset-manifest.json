@@ -1,12 +1,12 @@
 {
   "main.css": "/static/css/main.ba9f93d9.chunk.css",
-  "main.js": "/static/js/main.16794f3b.chunk.js",
-  "main.js.map": "/static/js/main.16794f3b.chunk.js.map",
+  "main.js": "/static/js/main.99796662.chunk.js",
+  "main.js.map": "/static/js/main.99796662.chunk.js.map",
   "static/js/1.d1de3182.chunk.js": "/static/js/1.d1de3182.chunk.js",
   "static/js/1.d1de3182.chunk.js.map": "/static/js/1.d1de3182.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/p2.jpg": "/static/media/p2.0537fae4.jpg",
+  "static/media/p2.jpg": "/static/media/p2.1593a68a.jpg",
   "static/media/barbershop.png": "/static/media/barbershop.9e98f78b.png",
   "static/media/bookshop.png": "/static/media/bookshop.014192af.png",
   "static/media/device.png": "/static/media/device.8b57efa7.png",
@@ -16,6 +16,6 @@
   "static/media/baikal.png": "/static/media/baikal.89f85104.png",
   "static/css/main.ba9f93d9.chunk.css.map": "/static/css/main.ba9f93d9.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.eb6e5a1b8229d63dbd8966b8fcdd911e.js": "/precache-manifest.eb6e5a1b8229d63dbd8966b8fcdd911e.js",
+  "precache-manifest.830ca6bdfaf9849435dac87a7c4a3ed6.js": "/precache-manifest.830ca6bdfaf9849435dac87a7c4a3ed6.js",
   "service-worker.js": "/service-worker.js"
 }

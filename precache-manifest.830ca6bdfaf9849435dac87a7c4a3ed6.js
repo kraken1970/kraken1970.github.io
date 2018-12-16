@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/barbershop.9e98f78b.png"
   },
   {
-    "revision": "16794f3b9147c3de3ff5",
+    "revision": "99796662a0ddaac3e70c",
     "url": "/static/css/main.ba9f93d9.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "0537fae4d1ea857f645d466625ae8bcd",
-    "url": "/static/media/p2.0537fae4.jpg"
+    "revision": "1593a68a9f9d3b2acca7f9e820700733",
+    "url": "/static/media/p2.1593a68a.jpg"
   },
   {
     "revision": "89f8510408c166dfaa18fa68044da0b5",
     "url": "/static/media/baikal.89f85104.png"
   },
   {
-    "revision": "16794f3b9147c3de3ff5",
-    "url": "/static/js/main.16794f3b.chunk.js"
+    "revision": "99796662a0ddaac3e70c",
+    "url": "/static/js/main.99796662.chunk.js"
   },
   {
     "revision": "014192afdd5812b362d3e6776d1df36f",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/static/media/todo.d10e61d1.png"
   },
   {
-    "revision": "254da2e90e45748d22e65e2905d05c3d",
+    "revision": "b8d832e6e86421414e4956cd82e3fffe",
     "url": "/index.html"
   }
 ];
