@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.efc5af82.chunk.css",
-  "main.js": "/static/js/main.2571315b.chunk.js",
-  "main.js.map": "/static/js/main.2571315b.chunk.js.map",
+  "main.css": "/static/css/main.ba9f93d9.chunk.css",
+  "main.js": "/static/js/main.16794f3b.chunk.js",
+  "main.js.map": "/static/js/main.16794f3b.chunk.js.map",
   "static/js/1.d1de3182.chunk.js": "/static/js/1.d1de3182.chunk.js",
   "static/js/1.d1de3182.chunk.js.map": "/static/js/1.d1de3182.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -14,8 +14,8 @@
   "static/media/technomart.png": "/static/media/technomart.2f427ffc.png",
   "static/media/todo.png": "/static/media/todo.d10e61d1.png",
   "static/media/baikal.png": "/static/media/baikal.89f85104.png",
-  "static/css/main.efc5af82.chunk.css.map": "/static/css/main.efc5af82.chunk.css.map",
+  "static/css/main.ba9f93d9.chunk.css.map": "/static/css/main.ba9f93d9.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.50b670bea0aa0deac4f1a801d7413248.js": "/precache-manifest.50b670bea0aa0deac4f1a801d7413248.js",
+  "precache-manifest.eb6e5a1b8229d63dbd8966b8fcdd911e.js": "/precache-manifest.eb6e5a1b8229d63dbd8966b8fcdd911e.js",
   "service-worker.js": "/service-worker.js"
 }
