@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/barbershop.9e98f78b.png"
   },
   {
-    "revision": "7b799838e237fb1300f0",
+    "revision": "eeb5910042c91219f789",
     "url": "/static/css/main.612896e6.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/baikal.89f85104.png"
   },
   {
-    "revision": "7b799838e237fb1300f0",
-    "url": "/static/js/main.7b799838.chunk.js"
+    "revision": "eeb5910042c91219f789",
+    "url": "/static/js/main.eeb59100.chunk.js"
   },
   {
     "revision": "014192afdd5812b362d3e6776d1df36f",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/media/todo.d10e61d1.png"
   },
   {
-    "revision": "762029a8871aa5fdcad6d5c764c0303d",
+    "revision": "72c63108a78486b40153d149b32169c1",
     "url": "/index.html"
   }
 ];
