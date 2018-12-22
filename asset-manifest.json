@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.81321340.chunk.css",
-  "main.js": "/static/js/main.fbb3d5ed.chunk.js",
-  "main.js.map": "/static/js/main.fbb3d5ed.chunk.js.map",
+  "main.js": "/static/js/main.76d50ac0.chunk.js",
+  "main.js.map": "/static/js/main.76d50ac0.chunk.js.map",
   "static/js/1.7f728a9c.chunk.js": "/static/js/1.7f728a9c.chunk.js",
   "static/js/1.7f728a9c.chunk.js.map": "/static/js/1.7f728a9c.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -9,12 +9,12 @@
   "static/media/p2.jpg": "/static/media/p2.9ebc997a.jpg",
   "static/media/barbershop.png": "/static/media/barbershop.9e98f78b.png",
   "static/media/bookshop.png": "/static/media/bookshop.014192af.png",
-  "static/media/quiz.png": "/static/media/quiz.c330f11c.png",
+  "static/media/quiz.png": "/static/media/quiz.5692c4f7.png",
   "static/media/technomart.png": "/static/media/technomart.2f427ffc.png",
   "static/media/todo.png": "/static/media/todo.d10e61d1.png",
   "static/media/baikal.png": "/static/media/baikal.89f85104.png",
   "static/css/main.81321340.chunk.css.map": "/static/css/main.81321340.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.138c7c88699eb6a032ca3c13d0f4b510.js": "/precache-manifest.138c7c88699eb6a032ca3c13d0f4b510.js",
+  "precache-manifest.ea2203ca0f4d9d67825955e055eca0b6.js": "/precache-manifest.ea2203ca0f4d9d67825955e055eca0b6.js",
   "service-worker.js": "/service-worker.js"
 }

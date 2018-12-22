@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/barbershop.9e98f78b.png"
   },
   {
-    "revision": "fbb3d5ed2c31031c038c",
+    "revision": "76d50ac0f4ff7b6a7fed",
     "url": "/static/css/main.81321340.chunk.css"
   },
   {
@@ -24,16 +24,16 @@ self.__precacheManifest = [
     "url": "/static/media/baikal.89f85104.png"
   },
   {
-    "revision": "fbb3d5ed2c31031c038c",
-    "url": "/static/js/main.fbb3d5ed.chunk.js"
+    "revision": "76d50ac0f4ff7b6a7fed",
+    "url": "/static/js/main.76d50ac0.chunk.js"
   },
   {
     "revision": "014192afdd5812b362d3e6776d1df36f",
     "url": "/static/media/bookshop.014192af.png"
   },
   {
-    "revision": "c330f11ccc42a727bb88b7475fe9100f",
-    "url": "/static/media/quiz.c330f11c.png"
+    "revision": "5692c4f7c046342b2599a686ac093397",
+    "url": "/static/media/quiz.5692c4f7.png"
   },
   {
     "revision": "2f427ffcf4075f72572ad0efddb6b504",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/media/todo.d10e61d1.png"
   },
   {
-    "revision": "13467f0965664ade1168d3c57f6680da",
+    "revision": "277ff4661c98ee6e40839457e364751d",
     "url": "/index.html"
   }
 ];
