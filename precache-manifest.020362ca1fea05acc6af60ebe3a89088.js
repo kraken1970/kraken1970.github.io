@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "9e98f78bb1eb5da8ec5952ceff297e77",
-    "url": "/static/media/barbershop.9e98f78b.png"
+    "revision": "71f5d7242a4d1440b89e",
+    "url": "/static/css/main.cc49408e.chunk.css"
   },
   {
-    "revision": "76d50ac0f4ff7b6a7fed",
-    "url": "/static/css/main.81321340.chunk.css"
+    "revision": "71f5d7242a4d1440b89e",
+    "url": "/static/js/main.71f5d724.chunk.js"
   },
   {
-    "revision": "7f728a9cf2a68c3a0090",
-    "url": "/static/js/1.7f728a9c.chunk.js"
+    "revision": "9e1b8e32dd322b294659",
+    "url": "/static/js/1.9e1b8e32.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -24,12 +24,16 @@ self.__precacheManifest = [
     "url": "/static/media/baikal.89f85104.png"
   },
   {
-    "revision": "76d50ac0f4ff7b6a7fed",
-    "url": "/static/js/main.76d50ac0.chunk.js"
+    "revision": "9e98f78bb1eb5da8ec5952ceff297e77",
+    "url": "/static/media/barbershop.9e98f78b.png"
   },
   {
     "revision": "014192afdd5812b362d3e6776d1df36f",
     "url": "/static/media/bookshop.014192af.png"
+  },
+  {
+    "revision": "99de2d4d3bca336d1cb6e1177d3dfb52",
+    "url": "/static/media/stardb.99de2d4d.png"
   },
   {
     "revision": "5692c4f7c046342b2599a686ac093397",
@@ -44,7 +48,7 @@ self.__precacheManifest = [
     "url": "/static/media/todo.d10e61d1.png"
   },
   {
-    "revision": "277ff4661c98ee6e40839457e364751d",
+    "revision": "71a9a6e44e1b2706e0baa8973973435c",
     "url": "/index.html"
   }
 ];
