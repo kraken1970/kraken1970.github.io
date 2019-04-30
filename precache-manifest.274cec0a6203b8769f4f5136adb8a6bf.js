@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "35f04560d2d585775ca3",
+    "revision": "5a4a2f22ae85e70d82c1",
     "url": "/static/css/main.8b4d3cff.chunk.css"
   },
   {
-    "revision": "35f04560d2d585775ca3",
-    "url": "/static/js/main.35f04560.chunk.js"
+    "revision": "5a4a2f22ae85e70d82c1",
+    "url": "/static/js/main.5a4a2f22.chunk.js"
   },
   {
     "revision": "0b83c393278e4e5a8fda",
@@ -36,10 +36,6 @@ self.__precacheManifest = [
     "url": "/static/media/quiz.5692c4f7.png"
   },
   {
-    "revision": "2f427ffcf4075f72572ad0efddb6b504",
-    "url": "/static/media/technomart.2f427ffc.png"
-  },
-  {
     "revision": "d10e61d1cf2cb112d043e705b13740f2",
     "url": "/static/media/todo.d10e61d1.png"
   },
@@ -56,7 +52,11 @@ self.__precacheManifest = [
     "url": "/static/media/gridTest1.d3ff3673.jpg"
   },
   {
-    "revision": "e6285a6d3e3c50741a0b66cba42cf1c1",
+    "revision": "2f427ffcf4075f72572ad0efddb6b504",
+    "url": "/static/media/technomart.2f427ffc.png"
+  },
+  {
+    "revision": "1273ea4bddee7143ad25a9c5f61d93df",
     "url": "/index.html"
   }
 ];
